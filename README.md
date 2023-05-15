@@ -14,6 +14,6 @@ npm run dev
 
 # 预览
 ```
-建议挂vpn体验
+需要挂vpn体验
 https://frosty-recipe-8169.on.fleek.co/
 ```
